@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=5000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+There!+👋;I'm+Csesagar;I'm+a+.NET+Full+Stack+Developer+🚀;Angular+%7C+React+%7C+.NET+%7C+Cloud;Building+Scalable+Web+Applications;Let's+Build+Something+Cool!+🔥" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=csesagar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <h3 align="center">
   💻 .NET Full Stack Developer &nbsp;|&nbsp; Angular &nbsp;|&nbsp; React &nbsp;|&nbsp; Cloud
