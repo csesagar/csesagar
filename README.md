@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+There!+👋;I'm+Csesagar;I'm+a+.NET+Full+Stack+Developer+🚀;Angular+%7C+React+%7C+.NET+%7C+Cloud;Building+Scalable+Web+Applications;Let's+Build+Something+Cool!+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=5000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+There!+👋;I'm+Csesagar;I'm+a+.NET+Full+Stack+Developer+🚀;Angular+%7C+React+%7C+.NET+%7C+Cloud;Building+Scalable+Web+Applications;Let's+Build+Something+Cool!+🔥" />
 </h1>
 
 <p align="center">
@@ -12,23 +12,6 @@
 
 <p align="center">
   <i>Turning ideas into scalable, clean and production-ready applications.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/csesagar">
-    <img src="https://img.shields.io/github/followers/csesagar?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/csesagar?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
