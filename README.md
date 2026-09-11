@@ -7,4 +7,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/csesagar/)
 - [Instagram](@csesagar)
-- [Github](https://github.com/csesagar)
