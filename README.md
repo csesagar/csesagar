@@ -70,28 +70,3 @@
 </p>
 
 ---
-
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/csesagar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/csesagar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>💬 Open to opportunities, collaborations and interesting projects.</b>
-</p>
-
-<h3 align="center">
-  🚀 Code. Learn. Build. Repeat. 🚀
-</h3>
-
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
-</p>
-
