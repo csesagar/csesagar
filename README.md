@@ -1,26 +1,8 @@
-
-<!-- Stylish Professional Banner -->
-<img width="1800" height="500" alt="Gemini_Generated_Image_kgbewwkgbewwkgbe" src="https://github.com/user-attachments/assets/96b643e6-8ec2-474a-b8d5-93407a8945c9" />
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=5000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+There!+👋;I'm+a+.NET+Full+Stack+Developer+🚀;Building+Scalable+Web+Applications;Let's+Build+Something+Cool!+🔥" />
-</h1>
-
-
 <h3 align="center">
   💻 .NET Full Stack Developer &nbsp;|&nbsp; Angular &nbsp;|&nbsp; React &nbsp;|&nbsp; Cloud
 </h3>
-
-<p align="center">
-  <i>Turning ideas into scalable, clean and production-ready applications.</i>
-</p>
-
----
-
-
-> 💡 I enjoy solving real-world problems, building reusable components,
-> optimizing applications, and continuously learning new technologies.
-
----
+<!-- Stylish Professional Banner -->
+<img width="1800" height="500" alt="Gemini_Generated_Image_kgbewwkgbewwkgbe" src="https://github.com/user-attachments/assets/96b643e6-8ec2-474a-b8d5-93407a8945c9" />
 
 ## ⚡ Tech Stack
 
